@@ -1,0 +1,35 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:10px;
+    font-size: 40px;
+}
+form{
+    text-align:center;
+    padding-bottom:20px;
+}
+#psearch{
+    color:#000;
+    padding-bottom:10px;
+    text-align: center;
+}
+#searchbar{
+    border: 2px solid black;
+    width: 550px;
+    height: 20px;
+    font-size: 15px;
+    padding: 7px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 10px lightgray;
+}
+#searchsymbol{
+    width: 30px;
+    height: 30px;
+
+    position: absolute;
+    margin-left: -33px;
+    margin-top: 4px;
+}
